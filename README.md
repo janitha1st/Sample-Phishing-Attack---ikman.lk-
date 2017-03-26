@@ -1,6 +1,6 @@
 # Sample-Phishing-Attack---ikman.lk-
 Contains all the source codes to do a Phishing Attack on "Ikman.lk" site
-If you are a beginer to do a Phishing Attack, you can easily know the steps to do a Phishing Attack from reading my Blog.>> http://hellocyberjb.blogspot.com/ << 
+If you are a beginner to do a Phishing Attack, you can easily know the steps to do a Phishing Attack from reading my Blog.>> http://hellocyberjb.blogspot.com/ << 
 I have uploaded all the files that need to do a Phishing Attack on "ikman.lk", so you can simply download all the files and first host it locally.
 As an Example here are the steps to host in wamp server.
    1) Download the Wamp Server and Install it to your PC. (64-bit http://www.wampserver.com/en/#wampserver-64-bits-php-5-6-25-php-7)
